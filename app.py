@@ -1,3 +1,4 @@
+
 # Importing Required library
 import pandas as pd
 import numpy as np
@@ -47,6 +48,7 @@ pred=str(predict)
 
 if st.button('Predicted Cholesterol'):
     pred
+
 
 
 
